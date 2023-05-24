@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+npx create-react-app .
+
+npm install gh-pages --save-dev
+
+"lint:js": "eslint src/\*_/_.{js,jsx}"
+
+"homepage": "https://ViktorSvertoka.github.io/test/",
+
+deploy.yml
