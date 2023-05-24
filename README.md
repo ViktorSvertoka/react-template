@@ -80,3 +80,9 @@ npm install gh-pages --save-dev
 "homepage": "https://ViktorSvertoka.github.io/test/",
 
 deploy.yml
+
+npm run deploy
+
+"predeploy": "npm run build",
+
+"deploy": "gh-pages -d build",
