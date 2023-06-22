@@ -197,6 +197,10 @@ npm install gh-pages --save-dev
 
 "homepage": "https://ViktorSvertoka.github.io/test/",
 
+jsconfig.json
+
+---
+
 deploy.yml
 
 npm run deploy
