@@ -210,9 +210,9 @@ GitHub.
 
 ---
 
-1. .github/workflows
+1. npx create-react-app .
 
-2. npx create-react-app .
+2. .github/workflows/deploy.yml
 
 3. npm install gh-pages --save-dev
 
