@@ -210,15 +210,21 @@ GitHub.
 
 ---
 
-npx create-react-app .
+1. .github/workflows
 
-npm install gh-pages --save-dev
+2. npx create-react-app .
 
-"lint:js": "eslint src/\*_/_.{js,jsx}"
+3. npm install gh-pages --save-dev
 
-"homepage": "https://ViktorSvertoka.github.io/test/",
+4. "lint:js": "eslint src/\*_/_.{js,jsx}"
 
-jsconfig.json
+5. "homepage": "https://ViktorSvertoka.github.io/test/",
+
+6. jsconfig.json
+
+7. .gitignore
+
+8. .prettierrc
 
 ---
 
